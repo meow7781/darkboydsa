@@ -28,3 +28,10 @@
 <p align="center">
 <img width="1550" height="904" alt="Screenshot 2026-04-01 at 1 20 31 AM" src="https://github.com/user-attachments/assets/a36672cd-df87-492e-91f5-f90646b7e8e1" />
 </p>
+
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meow7781&theme=tokyo-night">
+</p>
