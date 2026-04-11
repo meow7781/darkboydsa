@@ -19,17 +19,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meow7781&show_icons=true&theme=tokyonight" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meow7781&theme=tokyonight" height="150">
 </p>
-## 🧠 About This Repository
+
+
+## About This Repository
 
 This repository contains my **consistent practice of Data Structures & Algorithms**, focused on:
-
 - Solving real contest problems  
 - Improving problem-solving speed  
 - Preparing for top tech interviews  
 
 ---
-
-## 🧩 Platforms Covered
 
 ### 🟡 LeetCode
 - Interview-focused problems  
@@ -43,7 +42,6 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 - Beginner → Regular contests  
 - Strong emphasis on implementation  
 
----
 
 
 ## Featured ALL Solution
