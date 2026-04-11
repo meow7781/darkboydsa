@@ -35,3 +35,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meow7781&theme=tokyo-night">
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meow7781/meow7781/output/snake.svg" />
+</p>
