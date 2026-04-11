@@ -4,8 +4,9 @@
 <p align="center">
   Consistent DSA practice across HackerRank, LeetCode, Codeforces & AtCoder ALL Contest
 </p>
+<p align="center">
 ⭐ star this repo
-
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge">
