@@ -79,7 +79,7 @@ This repository contains my **consistent practice of Data Structures & Algorithm
   ## myLeetCode Profile
 <p align="center">
   <a href="https://leetcode.com/u/heygaurav77/">
-   
+    <img src="https://leetcard.jacoblin.cool/heygaurav77?theme=dark&font=Nunito&ext=contest">
   </a>
 </p>
 
