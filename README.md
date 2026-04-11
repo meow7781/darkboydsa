@@ -4,8 +4,7 @@
 <p align="center">
   Consistent DSA practice across HackerRank, LeetCode, Codeforces & AtCoder ALL Contest
 </p>
-
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=meow7781&show_icons=true&theme=tokyonight)
+⭐ star this repo
 
 
 <p align="center">
@@ -13,6 +12,7 @@
   <img src="https://img.shields.io/badge/Language-C++-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 </p>
+
 
 ---
 
