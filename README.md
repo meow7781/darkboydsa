@@ -4,7 +4,10 @@
 <p align="center">
   Consistent DSA practice across HackerRank, LeetCode, Codeforces & AtCoder ALL Contest
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=meow7781&show_icons=true&theme=radical&hide_border=true&border_radius=10">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meow7781&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge">
