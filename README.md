@@ -2,7 +2,7 @@
 <h1 align="center"> darkboy do Competitive Programming </h1>
 
 <p align="center">
-  Consistent DSA practice across LeetCode, Codeforces & AtCoder
+  Consistent DSA practice across LeetCode, Codeforces & AtCoder ALL Contest
 </p>
 
 <p align="center">
