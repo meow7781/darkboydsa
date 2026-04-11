@@ -45,7 +45,7 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 
 | Platform     | Problems Solved |
 |-------------|----------------|
-| LeetCode    | XX             |
+| LeetCode    | 1090           |
 | Codeforces  | XX             |
 | AtCoder     | XX             |
 
@@ -81,10 +81,6 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 - GitHub: https://github.com/meow7781  
 
 ---
-
-<p align="center">
-  ⭐ Star this repo if you find it useful!
-</p>
 
 
 ## Featured ALL Solution
