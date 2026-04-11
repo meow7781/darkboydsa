@@ -62,7 +62,8 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 ## ⚙️ Tech Stack
 
 - C++
-- (Add Java / Swift / Python if used)
+- Swift (less solved)
+- Python
 
 ---
 
