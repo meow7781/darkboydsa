@@ -76,8 +76,15 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 ---
 
 ## 🔗 Profiles
+## 🟡 LeetCode Profile
 
-- LeetCode: https://leetcode.com/YOUR_USERNAME  
+<p align="center">
+  <a href="https://leetcode.com/u/heygaurav77/">
+    <img src="https://leetcard.jacoblin.cool/heygaurav77?theme=dark&font=Nunito&ext=contest">
+  </a>
+</p>
+
+- LeetCode: https://leetcode.com/heygaurav77
 - Codeforces: https://codeforces.com/profile/YOUR_USERNAME  
 - GitHub: https://github.com/meow7781  
 
