@@ -38,10 +38,53 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 - Contest-based solving (Div2/Div3)  
 - Focus on rating growth  
 
-### 🔴 AtCoder
-- Beginner → Regular contests  
-- Strong emphasis on implementation  
 
+---
+
+## 📊 Progress Tracker
+
+| Platform     | Problems Solved |
+|-------------|----------------|
+| LeetCode    | XX             |
+| Codeforces  | XX             |
+| AtCoder     | XX             |
+
+---
+
+## 🗓 Consistency Log
+
+- Day 1: 2 Problems  
+- Day 2: 3 Problems  
+- Day 3: 1 Problem  
+
+---
+
+## ⚙️ Tech Stack
+
+- C++
+- (Add Java / Swift / Python if used)
+
+---
+
+## 🎯 Current Goals
+
+- Reach Expert on Codeforces  
+- Solve 500+ DSA problems  
+- Crack top product-based companies  
+
+---
+
+## 🔗 Profiles
+
+- LeetCode: https://leetcode.com/YOUR_USERNAME  
+- Codeforces: https://codeforces.com/profile/YOUR_USERNAME  
+- GitHub: https://github.com/meow7781  
+
+---
+
+<p align="center">
+  ⭐ Star this repo if you find it useful!
+</p>
 
 
 ## Featured ALL Solution
