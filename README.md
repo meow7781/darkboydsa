@@ -34,11 +34,11 @@ This repository contains my **consistent practice of Data Structures & Algorithm
 
 ---
 
-### 🟡 LeetCode
+### LeetCode
 - Interview-focused problems  
 - Structured by difficulty  
 
-### 🔵 Codeforces
+### Codeforces
 - Contest-based solving (Div2/Div3)  
 - Focus on rating growth  
 
