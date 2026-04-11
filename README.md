@@ -19,7 +19,31 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meow7781&show_icons=true&theme=tokyonight" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meow7781&theme=tokyonight" height="150">
 </p>
+## 🧠 About This Repository
 
+This repository contains my **consistent practice of Data Structures & Algorithms**, focused on:
+
+- Solving real contest problems  
+- Improving problem-solving speed  
+- Preparing for top tech interviews  
+
+---
+
+## 🧩 Platforms Covered
+
+### 🟡 LeetCode
+- Interview-focused problems  
+- Structured by difficulty  
+
+### 🔵 Codeforces
+- Contest-based solving (Div2/Div3)  
+- Focus on rating growth  
+
+### 🔴 AtCoder
+- Beginner → Regular contests  
+- Strong emphasis on implementation  
+
+---
 
 
 ## Featured ALL Solution
@@ -36,8 +60,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meow7781&theme=tokyo-night">
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meow7781/meow7781/output/snake.svg" />
-</p>
